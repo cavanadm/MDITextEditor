@@ -1,0 +1,11 @@
+C:\Users\cavan_000\Documents\Dylan_FilesData\NET II\MDITextEditor\MDITextEditor\bin\Debug\MDITextEditor.exe.config
+C:\Users\cavan_000\Documents\Dylan_FilesData\NET II\MDITextEditor\MDITextEditor\bin\Debug\MDITextEditor.exe
+C:\Users\cavan_000\Documents\Dylan_FilesData\NET II\MDITextEditor\MDITextEditor\bin\Debug\MDITextEditor.pdb
+C:\Users\cavan_000\Documents\Dylan_FilesData\NET II\MDITextEditor\MDITextEditor\obj\Debug\MDITextEditor.csprojResolveAssemblyReference.cache
+C:\Users\cavan_000\Documents\Dylan_FilesData\NET II\MDITextEditor\MDITextEditor\obj\Debug\MDITextEditor.ChildForm.resources
+C:\Users\cavan_000\Documents\Dylan_FilesData\NET II\MDITextEditor\MDITextEditor\obj\Debug\MDITextEditor.Properties.Resources.resources
+C:\Users\cavan_000\Documents\Dylan_FilesData\NET II\MDITextEditor\MDITextEditor\obj\Debug\MDITextEditor.csproj.GenerateResource.Cache
+C:\Users\cavan_000\Documents\Dylan_FilesData\NET II\MDITextEditor\MDITextEditor\obj\Debug\MDITextEditor.csproj.CoreCompileInputs.cache
+C:\Users\cavan_000\Documents\Dylan_FilesData\NET II\MDITextEditor\MDITextEditor\obj\Debug\MDITextEditor.exe
+C:\Users\cavan_000\Documents\Dylan_FilesData\NET II\MDITextEditor\MDITextEditor\obj\Debug\MDITextEditor.pdb
+C:\Users\cavan_000\Documents\Dylan_FilesData\NET II\MDITextEditor\MDITextEditor\obj\Debug\MDITextEditor.MDIEditor.resources
